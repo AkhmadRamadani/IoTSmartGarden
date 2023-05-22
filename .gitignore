@@ -19,5 +19,5 @@ yarn-error.log
 /.vscode
 /public/assets/media/
 /public/assets/js/
-/public/assets/plugins/
+/public/assets/plugins/custom/
 
